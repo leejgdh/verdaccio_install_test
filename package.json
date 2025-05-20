@@ -1,0 +1,10 @@
+{
+  "name": "verdaccio_install_test",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@hwida/common": "^1.0.2",
+    "typescript": "^5.8.3"
+  }
+}
