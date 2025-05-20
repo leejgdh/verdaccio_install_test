@@ -7,6 +7,11 @@
   resolved "http://192.168.0.45:4873/@hwida/common/-/common-1.0.2.tgz#a6565a97b6033a142568ee1fdb21b3771df6a436"
   integrity sha512-iFNZM64X6tRLXNEepMkNYLjoKaR9z15ag2dskyBDGc2cPDygzTEbsIr8EKFEXLFBHorMDyD/I4YMmHzm34OCsw==
 
+"@leejgdh/utils@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@leejgdh/utils/-/utils-1.0.0.tgz#c450e25ffbdefedd97a96764a05a20677f9fd195"
+  integrity sha512-th8y9OcEI51qT4KH9N4QTSMdjskk6YB/a497KXwW3kGjqbz02YZX/PY9KNjRhQbsasQ4gRGu0gk0D0UUC+3fNQ==
+
 typescript@^5.8.3:
   version "5.8.3"
   resolved "http://192.168.0.45:4873/typescript/-/typescript-5.8.3.tgz#92f8a3e5e3cf497356f4178c34cd65a7f5e8440e"
